@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tutormaven.netlify.app/sitemap.xml
